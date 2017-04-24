@@ -1,4 +1,4 @@
-########################################################                                            #
+########################################################                                            
 # Print how many times each word from file             #
 # example_file.txt occurs.                             #
 # @ Carlos Tecles                                      #
