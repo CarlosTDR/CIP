@@ -1,5 +1,5 @@
-########################################################                                            #
-# Print distinct words from file example_file.txt      #                     #
+########################################################                                            
+# Print distinct words from file example_file.txt      #                     
 # @ Carlos Tecles                                      #
 ########################################################
 
