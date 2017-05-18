@@ -46,7 +46,6 @@ color_map = define_color_map_4(color_1, color_2, color_3, color_4)
 image = cv2.imread('lena.jpg', cv2.IMREAD_GRAYSCALE)
 height, width = image.shape[:2]
 
-#Correct way it's on the next task, I tought this was cool
 image2 = create_color_map_image(color_map, 900, 400)
 
 image3 = color_map[image,:]
